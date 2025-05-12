@@ -4,6 +4,7 @@ namespace Hello
 {
     class HelloITI
     {
+        // hello world method
         public void printHelloITI()
         {
             System.out.println("Hello ITI");
