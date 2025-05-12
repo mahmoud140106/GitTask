@@ -2,7 +2,7 @@ import System;
 
 namespace Hello
 {
-    class HelloWorld
+    class HelloSwift
     {
         public static void PrintHelloWorld()
         {
