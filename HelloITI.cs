@@ -7,21 +7,21 @@ namespace Hello
         // hello world method
         public void printHelloITI()
         {
-            System.out.println("Hello ITI");
+            Console.WriteLine("Hello ITI");
         }
         public void printHelloGit()
         {
-            System.out.println("Hello Git");
+            Console.WriteLine("Hello Git");
         }
         public void printHelloGitHub()
         {
-            System.out.println("Hello GitHub");
+            Console.WriteLine("Hello GitHub");
         }
 
         // Actions method
         public void printHelloGitHubActions()
         {
-            System.out.println("Hello GitHub Actions");
+            Console.WriteLine("Hello GitHub Actions");
         }
     }
 }
