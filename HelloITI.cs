@@ -17,5 +17,11 @@ namespace Hello
         {
             System.out.println("Hello GitHub");
         }
+
+        // Actions method
+        public void printHelloGitHubActions()
+        {
+            System.out.println("Hello GitHub Actions");
+        }
     }
 }
